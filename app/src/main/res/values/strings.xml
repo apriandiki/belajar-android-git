@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Belajar Android Aprian</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment">Go to fragment</string>
+    <string name="activity">Go to activity</string>
+    <string name="second_activity">Second Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="next">NEXT</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="splash_screen">Belajar Android Aprian</string>
+    <string name="email_anda">Email anda</string>
+    <string name="password_anda">Password</string>
+    <string name="email">Email</string>
+    <string name="silahkan_login">Login</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Kata sandi</string>
+    <string name="welcome_aprian">Welcome Apriam</string>
+    <string name="name">username</string>
+    <string name="title_activity_login">"Login "</string>
+    <string name="nama_lengkap">Nama Lengkap/Panggilan</string>
+    <string name="nim">Nomor Induk Mahasiswa</string>
+    <string name="jurusan">Penjurusan</string>
+    <string name="alamatlengkap">Alamat Lengkap</string>
+    <string name="masukan">Masukan Data</string>
+    <string name="titik_dua">:</string>
+    <string name="add_user">Add User</string>
+    <string name="list_user">List User</string>
+
+
+</resources>
