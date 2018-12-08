@@ -75,4 +75,14 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, DetailActivity.class);
         startActivity(intent);
     }
+
+  public void genapganjil(View view) {
+        Intent intent = new Intent(MainActivity.this, BilanganGenapDanGanjil.class);
+        startActivity(intent);
+    }
+     public void Listview(View view) {
+        Intent intent = new Intent(MainActivity.this, ListViewPlace.class);
+        startActivity(intent);
+    }
+    
 }
