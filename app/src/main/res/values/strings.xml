@@ -30,6 +30,12 @@
     <string name="titik_dua">:</string>
     <string name="add_user">Add User</string>
     <string name="list_user">List User</string>
+    <string name="bilangan_genap_ganjil">Bilangan Genap Ganjil</string>
+    <string name="masukan_bilangan">Masukan bilangan</string>
+    <string name="masukan_angka">masukan angka</string>
+    <string name="ouput">output</string>
+    <string name="button">button</string>
 
 
 </resources>
+
