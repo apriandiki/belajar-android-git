@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="top"
     android:orientation="vertical"
-    tools:context="com.example.amikom.myapplication.MainActivity">
+    tools:context="com.galih.amikom.praktek1.MainActivity">
 
 
 
@@ -29,7 +29,7 @@
 
         <Button
             android:id="@+id/AddUser"
-            android:layout_width="130dp"
+            android:layout_width="298dp"
             android:layout_height="56dp"
             android:text="@string/add_user"
             android:onClick="adduser"
@@ -38,7 +38,7 @@
 
         <Button
             android:id="@+id/ListUser"
-            android:layout_width="130dp"
+            android:layout_width="298dp"
             android:layout_height="56dp"
             android:text="@string/list_user"
             android:onClick="listuser"
@@ -48,21 +48,40 @@
 
     <Button
         android:id="@+id/fragment"
-        android:layout_width="130dp"
+        android:layout_width="298dp"
         android:layout_height="56dp"
         android:text="@string/fragment"
         android:onClick="fragment"
         tools:layout_editor_absoluteX="64dp"
         tools:layout_editor_absoluteY="237dp" />
 
-    <Button
-        android:id="@+id/intent"
-        android:layout_width="130dp"
-        android:layout_height="56dp"
-        android:text="@string/activity"
-        android:onClick="intent"
-        tools:layout_editor_absoluteX="64dp"
-        tools:layout_editor_absoluteY="318dp" />
+        <Button
+            android:id="@+id/intent"
+            android:layout_width="298dp"
+            android:layout_height="56dp"
+            android:text="@string/activity"
+            android:onClick="intent"
+            tools:layout_editor_absoluteX="64dp"
+            tools:layout_editor_absoluteY="318dp" />
+
+        <Button
+            android:id="@+id/bilangangenapdanganjil"
+            android:layout_width="298dp"
+            android:layout_height="56dp"
+            android:text="@string/MainActivity_bilangan_genap_dan_ganjil"
+            android:onClick="bilangangenapdanganjil"
+            tools:layout_editor_absoluteX="64dp"
+            tools:layout_editor_absoluteY="318dp" />
+
+
+        <Button
+            android:id="@+id/listview"
+            android:layout_width="298dp"
+            android:layout_height="56dp"
+            android:text="@string/listview"
+            android:onClick="Listview"
+            tools:layout_editor_absoluteX="64dp"
+            tools:layout_editor_absoluteY="318dp" />
 
     </LinearLayout>
 
